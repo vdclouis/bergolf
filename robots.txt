@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://vdclouis.github.com/bergolf/sitemap.xml 
+Sitemap: http://bergolf.com/sitemap.xml 

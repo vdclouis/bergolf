@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Bergolf]]></title>
-  <link href="http://vdclouis.github.com/bergolf/atom.xml" rel="self"/>
-  <link href="http://vdclouis.github.com/bergolf/"/>
-  <updated>2013-03-03T13:23:20+01:00</updated>
-  <id>http://vdclouis.github.com/bergolf/</id>
+  <link href="http://bergolf.com/atom.xml" rel="self"/>
+  <link href="http://bergolf.com/"/>
+  <updated>2013-03-03T13:25:23+01:00</updated>
+  <id>http://bergolf.com/</id>
   <author>
     <name><![CDATA[Bergolf]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Lock, Stock and Two Alpine Snowboards]]></title>
-    <link href="http://vdclouis.github.com/bergolf/blog/2013/03/02/lock/"/>
+    <link href="http://bergolf.com/blog/2013/03/02/lock/"/>
     <updated>2013-03-02T12:48:00+01:00</updated>
-    <id>http://vdclouis.github.com/bergolf/blog/2013/03/02/lock</id>
+    <id>http://bergolf.com/blog/2013/03/02/lock</id>
     <content type="html"><![CDATA[<iframe src="http://player.vimeo.com/video/60497535?title=0&amp;byline=0&amp;portrait=0&amp;color=999999" width="960" height="540" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 
@@ -50,9 +50,9 @@ Riders: Eugene Bogolyubov (Ben), Eugene Tikhmenev (Rey), Zagladyshev Yuri (Z), O
   
   <entry>
     <title type="html"><![CDATA[Insane Rope Swing]]></title>
-    <link href="http://vdclouis.github.com/bergolf/blog/2013/02/27/Rope/"/>
+    <link href="http://bergolf.com/blog/2013/02/27/Rope/"/>
     <updated>2013-02-27T00:00:00+01:00</updated>
-    <id>http://vdclouis.github.com/bergolf/blog/2013/02/27/Rope</id>
+    <id>http://bergolf.com/blog/2013/02/27/Rope</id>
     <content type="html"><![CDATA[<iframe width="960" height="540" src="http://www.youtube.com/embed/fdJc1_IBKJA?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
@@ -103,9 +103,9 @@ facebook, it’s the cool thing to do these days :)<br/>
   
   <entry>
     <title type="html"><![CDATA[BombSquad Alaska]]></title>
-    <link href="http://vdclouis.github.com/bergolf/blog/2013/02/23/Bomb/"/>
+    <link href="http://bergolf.com/blog/2013/02/23/Bomb/"/>
     <updated>2013-02-23T00:00:00+01:00</updated>
-    <id>http://vdclouis.github.com/bergolf/blog/2013/02/23/Bomb</id>
+    <id>http://bergolf.com/blog/2013/02/23/Bomb</id>
     <content type="html"><![CDATA[<iframe src="http://player.vimeo.com/video/60281988?title=0&amp;byline=0&amp;portrait=0&amp;color=999999" width="960" height="540" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 
@@ -125,9 +125,9 @@ facebook, it’s the cool thing to do these days :)<br/>
   
   <entry>
     <title type="html"><![CDATA[❤ Norway]]></title>
-    <link href="http://vdclouis.github.com/bergolf/blog/2013/02/13/Norway/"/>
+    <link href="http://bergolf.com/blog/2013/02/13/Norway/"/>
     <updated>2013-02-13T00:00:00+01:00</updated>
-    <id>http://vdclouis.github.com/bergolf/blog/2013/02/13/Norway</id>
+    <id>http://bergolf.com/blog/2013/02/13/Norway</id>
     <content type="html"><![CDATA[<p><img src="https://lh6.googleusercontent.com/-jti_dD8mDiQ/T4ShY14T5HI/AAAAAAAAAKE/-jF6OT_zmb4/s768/Norway_2012102.png"></p>
 
 <!-- more -->
@@ -139,9 +139,9 @@ facebook, it’s the cool thing to do these days :)<br/>
   
   <entry>
     <title type="html"><![CDATA[Further Unplugged]]></title>
-    <link href="http://vdclouis.github.com/bergolf/blog/2013/02/13/FE10/"/>
+    <link href="http://bergolf.com/blog/2013/02/13/FE10/"/>
     <updated>2013-02-13T00:00:00+01:00</updated>
-    <id>http://vdclouis.github.com/bergolf/blog/2013/02/13/FE10</id>
+    <id>http://bergolf.com/blog/2013/02/13/FE10</id>
     <content type="html"><![CDATA[<iframe src="http://player.vimeo.com/video/49823081?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="960" height="540" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 
@@ -160,9 +160,9 @@ facebook, it’s the cool thing to do these days :)<br/>
   
   <entry>
     <title type="html"><![CDATA[Further]]></title>
-    <link href="http://vdclouis.github.com/bergolf/blog/2013/02/12/Further/"/>
+    <link href="http://bergolf.com/blog/2013/02/12/Further/"/>
     <updated>2013-02-12T00:00:00+01:00</updated>
-    <id>http://vdclouis.github.com/bergolf/blog/2013/02/12/Further</id>
+    <id>http://bergolf.com/blog/2013/02/12/Further</id>
     <content type="html"><![CDATA[<iframe width="960" height="540" src="http://www.youtube.com/embed/3hxz0Iz3fgQ?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
@@ -187,9 +187,9 @@ facebook, it’s the cool thing to do these days :)<br/>
   
   <entry>
     <title type="html"><![CDATA[Epic Pow]]></title>
-    <link href="http://vdclouis.github.com/bergolf/blog/2013/02/11/pow/"/>
+    <link href="http://bergolf.com/blog/2013/02/11/pow/"/>
     <updated>2013-02-11T00:00:00+01:00</updated>
-    <id>http://vdclouis.github.com/bergolf/blog/2013/02/11/pow</id>
+    <id>http://bergolf.com/blog/2013/02/11/pow</id>
     <content type="html"><![CDATA[<iframe src="http://player.vimeo.com/video/31845929?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="960" height="540" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 
@@ -208,9 +208,9 @@ facebook, it’s the cool thing to do these days :)<br/>
   
   <entry>
     <title type="html"><![CDATA[With a View]]></title>
-    <link href="http://vdclouis.github.com/bergolf/blog/2013/02/11/Board/"/>
+    <link href="http://bergolf.com/blog/2013/02/11/Board/"/>
     <updated>2013-02-11T00:00:00+01:00</updated>
-    <id>http://vdclouis.github.com/bergolf/blog/2013/02/11/Board</id>
+    <id>http://bergolf.com/blog/2013/02/11/Board</id>
     <content type="html"><![CDATA[<p><img src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-prn1/603995_473153549400495_902124347_n.jpg"></p>
 
 <!-- more -->
@@ -222,9 +222,9 @@ facebook, it’s the cool thing to do these days :)<br/>
   
   <entry>
     <title type="html"><![CDATA[Pillow]]></title>
-    <link href="http://vdclouis.github.com/bergolf/blog/2013/02/05/pillow/"/>
+    <link href="http://bergolf.com/blog/2013/02/05/pillow/"/>
     <updated>2013-02-05T00:00:00+01:00</updated>
-    <id>http://vdclouis.github.com/bergolf/blog/2013/02/05/pillow</id>
+    <id>http://bergolf.com/blog/2013/02/05/pillow</id>
     <content type="html"><![CDATA[<p><img src="https://pbs.twimg.com/media/BBVw5ujCQAASZ8B.jpg:large"></p>
 
 <!-- more -->
@@ -236,9 +236,9 @@ facebook, it’s the cool thing to do these days :)<br/>
   
   <entry>
     <title type="html"><![CDATA[Tow in]]></title>
-    <link href="http://vdclouis.github.com/bergolf/blog/2013/02/04/tow/"/>
+    <link href="http://bergolf.com/blog/2013/02/04/tow/"/>
     <updated>2013-02-04T00:00:00+01:00</updated>
-    <id>http://vdclouis.github.com/bergolf/blog/2013/02/04/tow</id>
+    <id>http://bergolf.com/blog/2013/02/04/tow</id>
     <content type="html"><![CDATA[<iframe src="http://player.vimeo.com/video/58820051?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="960" height="540" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 
@@ -257,9 +257,9 @@ facebook, it’s the cool thing to do these days :)<br/>
   
   <entry>
     <title type="html"><![CDATA[Into the Mind]]></title>
-    <link href="http://vdclouis.github.com/bergolf/blog/2013/02/04/intoTheMind/"/>
+    <link href="http://bergolf.com/blog/2013/02/04/intoTheMind/"/>
     <updated>2013-02-04T00:00:00+01:00</updated>
-    <id>http://vdclouis.github.com/bergolf/blog/2013/02/04/intoTheMind</id>
+    <id>http://bergolf.com/blog/2013/02/04/intoTheMind</id>
     <content type="html"><![CDATA[<iframe src="http://player.vimeo.com/video/54348266?portrait=0&amp;color=ffffff" width="960" height="540" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 
@@ -290,9 +290,9 @@ Original Score by Jacob Yoffee, Sound Design: Cody Petersen</p>
   
   <entry>
     <title type="html"><![CDATA[Wolverine]]></title>
-    <link href="http://vdclouis.github.com/bergolf/blog/2013/02/03/Wolverine/"/>
+    <link href="http://bergolf.com/blog/2013/02/03/Wolverine/"/>
     <updated>2013-02-03T00:00:00+01:00</updated>
-    <id>http://vdclouis.github.com/bergolf/blog/2013/02/03/Wolverine</id>
+    <id>http://bergolf.com/blog/2013/02/03/Wolverine</id>
     <content type="html"><![CDATA[<iframe src="http://player.vimeo.com/video/56771496?color=ffffff" width="960" height="540" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 
